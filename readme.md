@@ -123,6 +123,7 @@ Common CI configuration is abstracted via [orbs](https://github.com/NaturalCycle
   - json5
 - http
   - got
+  - getGot
   - ky
 
 ### Not included in libs
